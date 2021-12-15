@@ -34,7 +34,7 @@ client.on("message" , message => {
 
 if(message.channel.type === 'dm') {
 
-if (message.content.startsWith("https://discord.gg/JvjVFVuBpY")) {
+if (message.content.startsWith("https://discord.gg/")) {
     
   message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/KpmaqUmJzA`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
